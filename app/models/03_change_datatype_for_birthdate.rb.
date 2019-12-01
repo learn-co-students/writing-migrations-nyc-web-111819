@@ -1,0 +1,5 @@
+class ChangeDatatypeForBirthdate < ActiveRecord::Base
+def change 
+
+end 
+end 
